@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/Evendo/Downloads/voice_recognition_2/model.tfl"
+all_model_checkpoint_paths: "/Users/Evendo/Downloads/voice_recognition_2/model.tfl"
